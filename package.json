@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@pulumi/pulumi": "^3.11.0",
+    "@shipa-corp/pulumi": "^0.1.0"
+  }
+}
